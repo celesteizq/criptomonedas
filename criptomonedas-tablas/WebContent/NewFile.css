@@ -1,0 +1,82 @@
+@charset "UTF-8";
+
+h1 {
+	font-family: 'Hanalei', cursive;
+	text-align: center;
+}
+
+.tabla {
+	margin-left: 21em;
+}
+
+.prueba {
+	border-collapse: separate;
+	text-align: center;
+}
+
+.up {
+	background: yellow;
+	color: blue;
+	font-weight: bold;
+	width: 45em
+}
+
+.nada {
+	empty-cells: hide;
+}
+
+.uno {
+	border-bottom-style: solid;
+	border-right-style: solid;
+	border-left-style: solid;
+	border-top-style: solid;
+	height: 2em;
+	width: 82.5em;
+}
+
+.tabla-dos {
+	margin-left: 4em;
+	border-collapse: separate;
+	text-align: center;
+	width: 70em;
+	border-collapse: collapse;
+}
+
+.border {
+	border-bottom: red 5px dotted;
+}
+
+.rojo {
+	border-left: red 5px dotted;
+	border-right: red 5px dotted;
+	border-bottom: red 5px dotted;
+}
+
+.negro {
+	border-top: black 0.1px solid;
+}
+
+.abajo {
+	background: yellow;
+	color: blue;
+	font-weight: 900;
+	margin-top: 0.1em;
+	margin-left: 3.9em;
+	width: 70em;
+}
+
+.corto {
+	width: 45em;
+}
+
+.color {
+	background: yellow;
+	color: blue;
+	font-size: x-large;
+	height: 4em;
+	width: 55em;
+	border-bottom-color: red;
+	border-left-color: red;
+	border-right-color: red;
+	border-top-color: red;
+}
